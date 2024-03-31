@@ -1,5 +1,6 @@
+![labyrinth](https://github.com/Latashajd40/Latashajd40/assets/97650423/41d2c828-6594-47ae-be92-dedc83ed1c5c)
 
-![Uploading labyrinth.jpg…]()
+
 
 # $\color{red}{\textsf{Welcome}}$ $\color{darkorange}{\textsf{to}}$ $\color{lightskyblue}{\textsf{the}}$ $\color{purple}{\textsf{Labyrinth}}$ $\color{green}{\textsf{for}}$ $\color{yellow}{\textsf{Latasha Jones!}}$
 
