@@ -15,4 +15,4 @@
 - Deliberate effort
 - Every iteration
 - Disregarding the short-term results
-- Will lead to success at an unknown time [x]}}$
+- Will lead to success at an unknown time [x]
