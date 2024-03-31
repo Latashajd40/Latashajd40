@@ -1,4 +1,4 @@
-![<img src="[labyrinth]"](https://github.com/Latashajd40/Latashajd40/assets/97650423/88a3fc34-dd67-4265-a46f-7455d4089aae)
+![labyrinth](https://github.com/Latashajd40/Latashajd40/assets/97650423/7bf3f7f2-a2d3-4abb-8d10-71118df9fbbc)
 
 
 
