@@ -1,4 +1,4 @@
-{![Uploading labyrinth.jpg…]()
+{![Uploading labyrinth.jpg…]()}
 # $\color{red}{\textsf{Welcome}}$ $\colordarkorange}{\textsf{to}}$ $\color{lightskyblue}{\textsf{the}}$ $\color{purple}{\textsf{Labyrinth}}$ $\color{green}{\textsf{for}}$ $\color{yellow}{\textsf{Latasha Jones!}}$
 
 ## $\color{lightskyblue}{\textsf{About Me}}$
