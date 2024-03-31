@@ -1,4 +1,5 @@
-![labyrinth1](https://github.com/Latashajd40/Latashajd40/assets/97650423/94977f19-b468-4a4c-9890-b1869313d931)
+
+![edited](https://github.com/Latashajd40/Latashajd40/assets/97650423/570eab7a-0b67-4104-bfdc-736799d8a83c)
 
 
 
