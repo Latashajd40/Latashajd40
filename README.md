@@ -1,4 +1,4 @@
-# ${\\color{darkorange}Welcome}$
+${\color{darkorange}Welcome}$
 # $${\color{darkorange}Welcome}$$
 
 
