@@ -1,4 +1,4 @@
-![labyrinth](https://github.com/Latashajd40/Latashajd40/assets/97650423/41d2c828-6594-47ae-be92-dedc83ed1c5c)
+![labyrinth](https://github.com/Latashajd40/Latashajd40/assets/97650423/41d2c828-6594-47ae-be92-dedc83ed1c5c){width=400 height=300}
 
 
 
