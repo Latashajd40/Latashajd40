@@ -4,6 +4,8 @@
 <h2>About Me</h2>
 <h4>function (Latasha) {</h4>
 
+<h4>return "I want to hire her!";</h4>
+
 <ul>Strengths: Dedication to solving problems</ul>
 <ul></ul>
 <ul></ul>
