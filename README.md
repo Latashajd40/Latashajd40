@@ -5,9 +5,9 @@
 
 <p>Latasha: {</p>
 <ul>$\color{lightskyblue}{\textsf{strengths}}$: $\color{#FFF275}{\textsf{["problem solver","tenacious", "critical thinker"]}}$;</ul>
-<p>$\color{lightskyblue}{\textsf{languages}}$: ["python", "vb.net", "javascript", "SQL", "HTML", "CSS"];</p>
-<p>$\color{lightskyblue}{\textsf{tools-libraries}}$: ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];</p>
-<p>$\color{lightskyblue}{\textsf{skills}}$: ["Data visualization", "Machine learning", "Data Collection", "ETL"];</p>
+<ul>$\color{lightskyblue}{\textsf{languages}}$: ["python", "vb.net", "javascript", "SQL", "HTML", "CSS"];</ul>
+<ul>$\color{lightskyblue}{\textsf{tools-libraries}}$: ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];</ul>
+<ul>$\color{lightskyblue}{\textsf{skills}}$: ["Data visualization", "Machine learning", "Data Collection", "ETL"];</ul>
 
 <p>$\color{#016FB9}{\textsf{function}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {</p>
 <h4>$\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";</h4>
