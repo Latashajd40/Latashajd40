@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 
 <p>Latasha: {</p>
-<ul>$\color{lightskyblue}{\textsf{strengths}}$: $\color{#FFF275}{\textsf{["problem solver","tenacious", "critical thinker"]}}$;</ul>
+<ul>$\color{lightskyblue}{\textsf{strengths}}$: $\color{#FFF275}{\textsf{["problem solver","tenacious", "critical thinker"]}}$;</ul>&nbsp;
 <ul>$\color{lightskyblue}{\textsf{languages}}$: ["python", "vb.net", "javascript", "SQL", "HTML", "CSS"];</ul>
 <ul>$\color{lightskyblue}{\textsf{tools-libraries}}$: ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];</ul>
 <ul>$\color{lightskyblue}{\textsf{skills}}$: ["Data visualization", "Machine learning", "Data Collection", "ETL"];</ul>
