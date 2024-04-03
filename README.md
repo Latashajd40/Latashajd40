@@ -1,18 +1,3 @@
 
 ![edited](https://github.com/Latashajd40/Latashajd40/assets/97650423/33c92b7d-28d7-4b87-98b0-accbff580ac5)
 
-
-
-# $\color{red}{\textsf{Welcome}}$ $\color{darkorange}{\textsf{to}}$ $\color{lightskyblue}{\textsf{the}}$ $\color{purple}{\textsf{Labyrinth}}$ $\color{green}{\textsf{for}}$ $\color{yellow}{\textsf{Latasha Jones!}}$
-
-## $\color{lightskyblue}{\textsf{About Me}}$
-
-### $\color{red}{\textsf{I began my coding journey in the early 2000s, writing my very first program in BASIC on guess what? A TI-83+}}$ $\color{darkorange}{\textsf{calculator. It was during this time that my love for making things easier grew. There are countless complex problems}}$ $\color{lightskyblue}{\textsf{in the world of data, and I am determined to uncover the truth within it.  The stock market has always fascinated me,}}$ $\color{purple}{\textsf{ which is why I embarked on my newest challenge: to achieve consistent returns from the market with a program of my}}$ $\color{green}{\textsf{own creation. I thoroughly enjoy delving into the nuances of data, and I am passionate about seeing it through. I believe}}$ $\color{yellow}{\textsf{I am close to creating my magnum opus, and I cannot wait for what lies ahead!}}$
-
-## $\color{lightskyblue}{\textsf{My Philosophy on Success}}$
-- If Persistent,
-- Consistent,
-- Deliberate effort,
-- Every iteration,
-- Disregarding the short-term results,
-- Will lead to success then, the only missing variable is? [x] time
