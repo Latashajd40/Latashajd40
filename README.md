@@ -2,7 +2,7 @@
 
 <hr>
 <h2>About Me</h2>
-<h4>$\color{#016FB9}{\textsf{function}}$ $\color{magenta}{\textsf{(}}$Latasha) {</h4>
+<h4>$\color{#016FB9}{\textsf{function}}$ $\color{#BA02AB}{\textsf{(}}$Latasha) {</h4>
 <h4>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{strengths}}$ = dedicated to solving problems;</h4>
 <h4>var $\color{lightskyblue}{\textsf{languages}}$ = ["python", "vb.net", "javascript", "SQL"];</h4>
 
