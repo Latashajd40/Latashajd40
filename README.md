@@ -1,7 +1,9 @@
-![HelloWorld](https://github.com/Latashajd40/Latashajd40/assets/97650423/7dd06ec2-657f-4d03-9d0f-ea0bdce2b42e)
+![HelloWorld](https://github.com/Latashajd40/Latashajd40/assets/97650423/7dd06ec2-657f-4d03-9d0f-ea0bdce2b42e) 
 
 <hr>
 <h2>About Me</h2>
+<h4>function (Latasha) {</h4>
+
 <ul>Strengths: Dedication to solving problems</ul>
 <ul></ul>
 <ul></ul>
