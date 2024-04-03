@@ -3,6 +3,8 @@
 <hr>
 <h2>About Me</h2>
 
+<p>Latasha: {</p>
+
 <p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{strengths}}$ = $\color{#FFF275}{\textsf{["problem solver","tenacious", "critical thinker"]}}$;</p>
 <p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{languages}}$ = ["python", "vb.net", "javascript", "SQL", "HTML", "CSS"];</p>
 <p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{tools-libraries}}$ = ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];</p>
