@@ -5,9 +5,9 @@
 
 Latasha: { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{strengths}}$ : $\color{#FFF275}{\textsf{["problem solver","tenacious", "critical thinker"]}}$;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{languages}}$: ["python", "vb.net", "javascript", "SQL", "HTML", "CSS"];<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{tools-libraries}}$: ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{skills}}$: ["Data visualization", "Machine learning", "Data Collection", "ETL"];<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{languages}}$ : ["python", "vb.net", "javascript", "SQL", "HTML", "CSS"];<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{tools-libraries}}$ : ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{skills}}$ : ["Data visualization", "Machine learning", "Data Collection", "ETL"];<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; };
 
 <p>$\color{#016FB9}{\textsf{function}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {</p>
