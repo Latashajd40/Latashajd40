@@ -13,9 +13,6 @@ $\color{lightskyblue}{\textsf{skills}}$: ["Data visualization", "Machine learnin
 <h4>$\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";</h4>
 <h4>}</h4>
 
-
-<ul></ul>
-<ul></ul>
 <div id="badges">
 <a href="https://www.linkedin.com/in/latasha-jones-nc/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"><a/>
 </div>
