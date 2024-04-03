@@ -3,8 +3,10 @@
 <hr>
 <h2>About Me</h2>
 <p>$\color{#016FB9}{\textsf{function}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {</p>
-<p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{strengths}}$ = $\color{#FFF275}{\textsf{dedicated to solving problems}}$;</p>
-<p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{languages}}$ = ["python", "vb.net", "javascript", "SQL"];</p>
+<p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{strengths}}$ = $\color{#FFF275}{\textsf{["problem solver","tenacious", "critical thinker"]}}$;</p>
+<p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{languages}}$ = ["python", "vb.net", "javascript", "SQL", "HTML", "CSS"];</p>
+<p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{tools-libraries}}$ = ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];</p>
+<p>$\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{skills}}$ = ["Data visualization", "Machine learning", "Data Collection", "ETL"];</p>
 
 <h4>$\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";</h4>
 <h4>}</h4>
