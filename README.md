@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp3N2cwb251MzdhemF3anQ0dXlibXRiYnVudHFsYmZxcG02b214cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y6ePYRgvHNXJYkkyJg/giphy.gif" width=200 height=100>
+![HelloWorld](https://github.com/Latashajd40/Latashajd40/assets/97650423/7dd06ec2-657f-4d03-9d0f-ea0bdce2b42e)
+
 <hr>
 <h2>About Me</h2>
 <div id="badges">
