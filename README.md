@@ -11,7 +11,7 @@ $\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{Latasha:}}$ { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; };
 
 <p>$\color{#016FB9}{\textsf{function}}$ whoToHire($\color{lightskyblue}{\textsf{Latasha}}$) {</p>
-<h4>$\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h4>$\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";</h4>
 <h4>}</h4>
 
 <div id="badges">
