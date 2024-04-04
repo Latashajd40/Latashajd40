@@ -14,8 +14,8 @@ $\color{#016FB9}{\textsf{function}}$ $\color{#FFF3B0}{\textsf{whoToHire}}$ ($\co
 
 $\color{#BA02AB}{\textsf{for}}$ ($\color{#016FB9}{\textsf{let}}$ $\color{lightskyblue}{\textsf{i=0}}$; $\color{lightskyblue}{\textsf{i}}$ < $\color{lightskyblue}{\textsf{Latasha.length}}$; $\color{lightskyblue}{\textsf{i++}}$) { <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#4F9D69}{\textsf{// what we are looking for}}$ <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (Latasha.strengths == "critical thinker" || Latasha.skills == "Data Visualization" || Latasha.languages == Python) { <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ $\color{#DC965A}{\textsf{"Hire!"}}$</b> ; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (Latasha.strengths == "critical thinker" || Latasha.skills == "Data Visualization" || Latasha.languages == Python) { <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ $\color{#DC965A}{\textsf{"Hire!"}}$ ; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } <br>
 }
 
