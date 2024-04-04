@@ -5,7 +5,7 @@
 
 var Latasha: { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{strengths}}$ : [ $\color{#DC965A}{\textsf{"problem solver"}}$, $\color{#DC965A}{\textsf{"tenacious"}}$ , $\color{#DC965A}{\textsf{"critical thinker"}}$ ];<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{languages}}$ : [ $\color{#DC965A}{\textsf{"python"}}$, $\color{#DC965A}{\textsf{"javascript"}}$, $\color{#DC965A}{\textsf{"SQL"}}$, $\color{#DC965A}{\textsf{"HTML"}}$, $\color{#DC965A}{\textsf{"CSS"}}$];<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{languages}}$ : [ $\color{#DC965A}{\textsf{"python"}}$, $\color{#DC965A}{\textsf{"vb.net"}}$ , $\color{#DC965A}{\textsf{"javascript"}}$, $\color{#DC965A}{\textsf{"SQL"}}$, $\color{#DC965A}{\textsf{"HTML"}}$, $\color{#DC965A}{\textsf{"CSS"}}$];<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{tools-libraries}}$ : ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{skills}}$ : ["Data visualization", "Machine learning", "Data Collection", "ETL"];<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; };
