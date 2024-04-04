@@ -13,10 +13,11 @@ $\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{Latasha:}}$ { <br>
 $\color{#016FB9}{\textsf{function}}$ $\color{#FFF3B0}{\textsf{whoToHire}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {<br>
 
 for (i=0; i < Latasha.length; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (Latasha.strengths == "critical thinker" || Latasha.skills == "Data Visualization" || Latasha.languages == Python) {
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";
-<h4>}</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";
+}
+}
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/latasha-jones-nc/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"><a/>
