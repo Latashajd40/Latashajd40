@@ -13,7 +13,7 @@ $\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{Latasha:}}$ { <br>
 $\color{#016FB9}{\textsf{function}}$ $\color{#FFF3B0}{\textsf{whoToHire}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {<br>
 
 for (i=0; i < Latasha.length; i++) { <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (Latasha.strengths == "critical thinker" || Latasha.skills == "Data Visualization" || Latasha.languages == Python) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (Latasha.strengths == "critical thinker" || Latasha.skills == "Data Visualization" || Latasha.languages == Python) { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";
 }
 }
