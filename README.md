@@ -11,6 +11,10 @@ $\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{Latasha:}}$ { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; };
 
 $\color{#016FB9}{\textsf{function}}$ $\color{#FFF3B0}{\textsf{whoToHire}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {<br>
+
+for (i=0; i < Latasha.length; i++) {
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";
 <h4>}</h4>
 
