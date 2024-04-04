@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 
 var Latasha: { <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{strengths}}$ :[ $\color{#DC965A}{\textsf{"problem solver"}}$ ,$\color{#DC965A}{\textsf{"tenacious"}}$ , $\color{#DC965A}{\textsf{"critical thinker"}}$];<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{strengths}}$ :[ $\color{#DC965A}{\textsf{"problem solver"}}$, $\color{#DC965A}{\textsf{"tenacious"}}$ , $\color{#DC965A}{\textsf{"critical thinker"}}$];<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{languages}}$ : ["python", "vb.net", "javascript", "SQL", "HTML", "CSS"];<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{tools-libraries}}$ : ["MongoDB","PostgreSQL","Pandas","Numpy","Leaflet", "Hvplot"];<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{skills}}$ : ["Data visualization", "Machine learning", "Data Collection", "ETL"];<br>
