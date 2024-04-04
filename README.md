@@ -10,7 +10,7 @@ $\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{Latasha:}}$ { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{skills}}$ : [ $\color{#DC965A}{\textsf{"Data visualization"}}$, $\color{#DC965A}{\textsf{"Machine learning"}}$, $\color{#DC965A}{\textsf{"Data Collection"}}$, $\color{#DC965A}{\textsf{"ETL"}}$];<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; };
 
-<p>$\color{#016FB9}{\textsf{function}}$ whoToHire($\color{lightskyblue}{\textsf{Latasha}}$) {</p>
+$\color{#016FB9}{\textsf{function}}$ whoToHire($\color{lightskyblue}{\textsf{Latasha}}$)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ "I want to hire her!";
 <h4>}</h4>
 
