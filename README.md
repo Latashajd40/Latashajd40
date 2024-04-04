@@ -12,7 +12,7 @@ $\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{Latasha:}}$ { <br>
 
 $\color{#016FB9}{\textsf{function}}$ $\color{#FFF3B0}{\textsf{whoToHire}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {<br>
 
-$\color{#BA02AB}{\textsf{for}}$ (let $\color{lightskyblue}{\textsf{i=0}}$; $\color{lightskyblue}{\textsf{i}}$ < $\color{lightskyblue}{\textsf{Latasha.length}}$; $\color{lightskyblue}{\textsf{i++}}$) { <br>
+$\color{#BA02AB}{\textsf{for}}$ ($\color{#016FB9}{\textsf{let}}$ $\color{lightskyblue}{\textsf{i=0}}$; $\color{lightskyblue}{\textsf{i}}$ < $\color{lightskyblue}{\textsf{Latasha.length}}$; $\color{lightskyblue}{\textsf{i++}}$) { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (Latasha.strengths == "critical thinker" || Latasha.skills == "Data Visualization" || Latasha.languages == Python) { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ $\color{#DC965A}{\textsf{"Hire!"}}$</b> ; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } <br>
