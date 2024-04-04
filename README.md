@@ -14,7 +14,7 @@ $\color{#016FB9}{\textsf{function}}$ $\color{#FFF3B0}{\textsf{whoToHire}}$ ($\co
 
 for (i=0; i < Latasha.length; i++) { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (Latasha.strengths == "critical thinker" || Latasha.skills == "Data Visualization" || Latasha.languages == Python) { <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ <b>$\color{#DC965A}{\textsf{"I want to hire her!"}}$</b> ; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ <h4>$\color{#DC965A}{\textsf{"I want to hire her!"}}$</b> ; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } <br>
 }
 
