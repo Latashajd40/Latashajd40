@@ -16,7 +16,8 @@ $\color{#BA02AB}{\textsf{for}}$ ($\color{#016FB9}{\textsf{let}}$ $\color{lightsk
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#4F9D69}{\textsf{// what we are looking for}}$ <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if ($\color{lightskyblue}{\textsf{Latasha.strengths}}$ == $\color{#DC965A}{\textsf{"critical thinker"}}$ || $\color{lightskyblue}{\textsf{Latasha.skills}}$ == $\color{#DC965A}{\textsf{"data visualization"}}$ || $\color{lightskyblue}{\textsf{Latasha.languages}}$ == $\color{#DC965A}{\textsf{"python"}}$) { <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#BA02AB}{\textsf{return}}$ $\color{#DC965A}{\textsf{"Hire!"}}$ ; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} <br>
 }
 
 <div id="badges">
