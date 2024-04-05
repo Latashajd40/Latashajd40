@@ -10,7 +10,7 @@ $\color{#016FB9}{\textsf{var}}$ $\color{lightskyblue}{\textsf{Latasha:}}$ { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{lightskyblue}{\textsf{skills}}$ : [ $\color{#DC965A}{\textsf{"data visualization"}}$, $\color{#DC965A}{\textsf{"machine learning"}}$, $\color{#DC965A}{\textsf{"data collection"}}$, $\color{#DC965A}{\textsf{"ETL"}}$]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; };
 
-$\color{#016FB9}{\textsf{function}}$ $\color{#FFF3B0}{\textsf{whoToHire}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#016FB9}{\textsf{function}}$ $\color{#FFF3B0}{\textsf{whoToHire}}$ ($\color{lightskyblue}{\textsf{Latasha}}$) {<br>
 
 $\color{#BA02AB}{\textsf{for}}$ ($\color{#016FB9}{\textsf{let}}$ $\color{lightskyblue}{\textsf{i=0}}$; $\color{lightskyblue}{\textsf{i}}$ < $\color{lightskyblue}{\textsf{Latasha.length}}$; $\color{lightskyblue}{\textsf{i++}}$) { <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#4F9D69}{\textsf{// what we are looking for}}$ <br>
